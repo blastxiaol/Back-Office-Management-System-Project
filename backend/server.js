@@ -8,7 +8,7 @@ const express = require('express')
 const app = express() // Generate Application Object
 
 // Declare using static middleware
-app.use(express.static('public'))
+app.use(express.static('build'))
 // Declare using decoding post request's middleware
 app.use(express.urlencoded({extended: true})) // parameter of request: name=tom&pwd=123
 app.use(express.json()) // parameter of request is a json structure: {name: tom, pwd: 123}
