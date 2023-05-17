@@ -1,0 +1,12 @@
+.link-button {
+  background-color: transparent;
+  border: none;
+  color: #0dac67;
+  cursor: pointer;
+}
+.link-button-move {
+  background-color: transparent;
+  border: none;
+  color: #42eec3;
+  cursor: pointer;
+}
