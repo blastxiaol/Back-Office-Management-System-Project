@@ -1,0 +1,14 @@
+.product-detail .product-detail-list-item {
+  justify-content: left;
+}
+.product-detail .product-detail-list-item .product-detail-list-item-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.product-detail .product-detail-list-item .product-detail-list-item-desc .product-detail-list-item-desc-img {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #c1cbd3;
+  margin-right: 10px;
+}
